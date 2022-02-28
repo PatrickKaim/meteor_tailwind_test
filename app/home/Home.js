@@ -12,7 +12,7 @@ export const Home = () => {
     <>
       <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl">
         <span className="block">Ready to use Meteor?</span>
-        <span className="block text-indigo-600">Template by quave</span>
+        <span className="block text-indigo-600">Template by quave - Testing Meteor 2.6.1</span>
 
         <div>
           <a
